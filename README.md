@@ -5,6 +5,7 @@ My classwork for cp264 in the 2024/25 school year.
 
 ## Resource
 [![C Full Course](https://i.pinimg.com/736x/f5/1f/6d/f51f6d1e1ee89141ca9d1c5d8df109fd.jpg)](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+
 Click ^
 
 ## Disclaimer
