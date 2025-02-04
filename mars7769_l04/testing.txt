@@ -1,0 +1,36 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 4 Test Results File
+ * -------------------------------------
+ * @author Michael Marsillo, 169057769, mars7769@mylaurier.ca
+ *
+ * @version 2025-01-06
+ *
+ * -------------------------------------
+ */
+ ---------------------------------------
+Test read_strings
+
+lines read: 3
+
+Contents of string array
+------------------------
+A short line
+A longer line
+A really long line that never seems to end and goes on and on
+
+------------------------
+Test strings_with_substring
+
+Enter substring: long
+A longer line
+A really long line that never seems to end and goes on and on
+------------------------
+Test strings_length
+
+Enter the length comparison value: 9
+(Since the string length of data was greater than 9, printed to long.txt)
+(for example, if i entered 700 for the length parameter, it would print to short.txt)
+
+ 
